@@ -2,7 +2,6 @@ package com.kafka.test.Kafka_ms_poc.configuration;
 
 import org.everit.json.schema.Schema;
 import org.everit.json.schema.loader.SchemaLoader;
-import org.json.JSONException;
 import org.json.JSONObject;
 
 public class JsonValidation {
